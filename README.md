@@ -33,7 +33,7 @@ participation certificate through that.
 ## A sneak peek into what we have here🙈 :
 
 <p align="center">
-  <img width="400" height="650" src = ""></img>
+  <img width="300" height="550" src = ""></img>
 </p>  
 
 ### Home
