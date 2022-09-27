@@ -43,7 +43,7 @@ participation certificate through that.
 <p align="center"><img width="300" height="550" src="https://github.com/AmanGuptaCoder/Tech-Fest-Management-App/blob/main/Screenshots/Slidebar.jpg"></p>
 
 ### Certificates Pages
-<p align="center"<img width="300" height="550" src="https://github.com/AmanGuptaCoder/Tech-Fest-Management-App/blob/main/Screenshots/Certificate_page.jpg" alt = "Certificate_Pages"></p>
+<p align="center"> <img width="300" height="550" src="https://github.com/AmanGuptaCoder/Tech-Fest-Management-App/blob/main/Screenshots/Certificate_page.jpg" alt = "Certificate_Pages"></p>
 
 ### User Login
 <p align="center"><img width="300" height="550" src="https://github.com/AmanGuptaCoder/Tech-Fest-Management-App/blob/main/Screenshots/User_Login.jpg" alt = "User Login"></p>
