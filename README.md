@@ -29,10 +29,6 @@ participation certificate through that.
 </ul>
 </p>
 
-<p align="center" margin="10px">
-<img margin="10px" align="center" src = "https://github.com/Tejas1510/Athavani/blob/master/assets/Images/netlify.png"></img>
-<img align="center" src = "https://github.com/Tejas1510/Athavani/blob/master/assets/Images/heroku.png"></img>
-</p>
 
 ## A sneak peek into what we have here🙈 :
 
