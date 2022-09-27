@@ -1,4 +1,4 @@
-![Tech-Fest-App]()
+![Tech-Fest-App]
 
 
 ## 📌 Motive of the Project
