@@ -36,16 +36,16 @@ participation certificate through that.
   <img width="400" height="650" src = ""></img>
 </p>  
 
-### Creation of Memory
+### Home
 <p align="center"><img src="https://github.com/AmanGuptaCoder/Tech-Fest-Management-App/blob/main/Screenshots/Home.jpg"></p>
 
-### Updation of Memory
+### Slidebar
 <p align="center"><img src="https://github.com/AmanGuptaCoder/Tech-Fest-Management-App/blob/main/Screenshots/Slidebar.jpg"></p>
 
-### Like a  Memory
+### Certificates
 <p align="center"><img src="https://github.com/AmanGuptaCoder/Tech-Fest-Management-App/blob/main/Screenshots/Certificate_page.jpg" alt = "like memory"></p>
 
-### Delete a Memory
+### Splash Screen
 <p align="center"><img src="https://github.com/AmanGuptaCoder/Tech-Fest-Management-App/blob/main/Screenshots/Splash_Screen.jpg" alt = "delete memory"></p>
 
 ## 📢  Open Source Program
