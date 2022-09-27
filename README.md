@@ -49,4 +49,4 @@ participation certificate through that.
 <p align="center"><img width="300" height="550" src="https://github.com/AmanGuptaCoder/Tech-Fest-Management-App/blob/main/Screenshots/User_Login.jpg" alt = "User Login"></p>
 
 ### Admin Dashboard
-<p align="center"><img width="300" height="550" src="https://github.com/AmanGuptaCoder/Tech-Fest-Management-App/blob/main/Screenshots/Admin_Dashboard.jpg" alt = "User Login"></p>" alt = "User Login"></p>
+<p align="center"><img width="300" height="550" src="https://github.com/AmanGuptaCoder/Tech-Fest-Management-App/blob/main/Screenshots/Admin_Dashboard.jpg" alt = "User Login"></p>
