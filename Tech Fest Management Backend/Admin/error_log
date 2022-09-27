@@ -1,0 +1,10 @@
+[27-Sep-2022 04:15:16 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/worldeng/public_html/php/Admin/adminLogin.php on line 229
+[27-Sep-2022 04:15:19 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/worldeng/public_html/php/Admin/adminLogin.php on line 229
+[27-Sep-2022 04:15:55 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/worldeng/public_html/php/Admin/adminLogin.php on line 219
+[27-Sep-2022 04:15:58 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/worldeng/public_html/php/Admin/adminLogin.php on line 219
+[27-Sep-2022 04:16:18 UTC] PHP Parse error:  syntax error, unexpected 'else' (T_ELSE) in /home/worldeng/public_html/php/Admin/adminLogin.php on line 219
+[27-Sep-2022 04:16:59 UTC] PHP Warning:  require_once(../config/Secret1.php): failed to open stream: No such file or directory in /home/worldeng/public_html/php/Admin/adminLogin.php on line 10
+[27-Sep-2022 04:16:59 UTC] PHP Fatal error:  require_once(): Failed opening required '../config/Secret1.php' (include_path='.:/opt/alt/php74/usr/share/pear') in /home/worldeng/public_html/php/Admin/adminLogin.php on line 10
+[27-Sep-2022 04:17:43 UTC] PHP Notice:  Undefined index: adminType in /home/worldeng/public_html/php/Admin/adminLogin.php on line 72
+[27-Sep-2022 04:17:43 UTC] PHP Notice:  Undefined index: adminDepartment in /home/worldeng/public_html/php/Admin/adminLogin.php on line 73
+[27-Sep-2022 04:17:43 UTC] PHP Notice:  Undefined index: adminEvent in /home/worldeng/public_html/php/Admin/adminLogin.php on line 74

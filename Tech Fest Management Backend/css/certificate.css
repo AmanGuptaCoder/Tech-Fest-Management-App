@@ -1,0 +1,20 @@
+body {
+  background-color: white;
+}
+
+body section p {
+  font-size: 30px;
+  text-align: center;
+  padding-top: 290px;
+}
+
+body section .mainContent span {
+  color: blue;
+}
+
+body section .footer-text {
+  font-size: 20px;
+  padding: 0px 0px 0px 0px;
+  padding-top: 35px;
+}
+/*# sourceMappingURL=certificate.css.map */
