@@ -1,4 +1,4 @@
-![Tech-Fest-App]()
+![Tech-Fest-App](![image](https://user-images.githubusercontent.com/90703407/192561141-4e4a7a82-113b-47e8-b63f-1ac714ca133e.png))
 
 
 ## 📌 Motive of the Project
