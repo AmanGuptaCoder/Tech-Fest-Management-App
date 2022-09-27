@@ -33,20 +33,20 @@ participation certificate through that.
 ## A sneak peek into what we have here🙈 :
 
 <p align="center">
-  <img width="650" height="400" src = ""></img>
+  <img width="400" height="650" src = ""></img>
 </p>  
 
 ### Creation of Memory
-<p align="center"><img src="https://github.com/Tejas1510/Athavani/blob/master/assets/createMemory.gif" alt = "create memory"></p>
+<p align="center"><img src="https://github.com/AmanGuptaCoder/Tech-Fest-Management-App/blob/main/Screenshots/Home.jpg"></p>
 
 ### Updation of Memory
-<p align="center"><img src="https://github.com/Tejas1510/Athavani/blob/master/assets/updateMemory.gif" alt = "update memory"></p>
+<p align="center"><img src="https://github.com/AmanGuptaCoder/Tech-Fest-Management-App/blob/main/Screenshots/Slidebar.jpg"></p>
 
 ### Like a  Memory
-<p align="center"><img src="https://github.com/Tejas1510/Athavani/blob/master/assets/likeMemory.gif" alt = "like memory"></p>
+<p align="center"><img src="https://github.com/AmanGuptaCoder/Tech-Fest-Management-App/blob/main/Screenshots/Certificate_page.jpg" alt = "like memory"></p>
 
 ### Delete a Memory
-<p align="center"><img src="https://github.com/Tejas1510/Athavani/blob/master/assets/deleteMemory.gif" alt = "delete memory"></p>
+<p align="center"><img src="https://github.com/AmanGuptaCoder/Tech-Fest-Management-App/blob/main/Screenshots/Splash_Screen.jpg" alt = "delete memory"></p>
 
 ## 📢  Open Source Program
 
