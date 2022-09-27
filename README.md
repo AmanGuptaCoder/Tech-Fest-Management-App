@@ -33,7 +33,7 @@ participation certificate through that.
 ## A sneak peek into what we have here🙈 :
 
 <p align="center">
-  <img width="300" height="550" src = ""></img>
+  <img width="300" height="550" src = "https://github.com/AmanGuptaCoder/Tech-Fest-Management-App/blob/main/Screenshots/Splash_Screen.jpg"></img>
 </p>  
 
 ### Home
