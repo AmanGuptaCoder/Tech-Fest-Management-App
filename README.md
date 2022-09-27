@@ -31,22 +31,22 @@ participation certificate through that.
 
 
 ## A sneak peek into what we have here🙈 :
-
+### Splash Screen
 <p align="center">
   <img width="300" height="550" src = "https://github.com/AmanGuptaCoder/Tech-Fest-Management-App/blob/main/Screenshots/Splash_Screen.jpg"></img>
 </p>  
 
 ### Home
-<p align="center"><img src="https://github.com/AmanGuptaCoder/Tech-Fest-Management-App/blob/main/Screenshots/Home.jpg"></p>
+<p align="center"><img width="300" height="550" src="https://github.com/AmanGuptaCoder/Tech-Fest-Management-App/blob/main/Screenshots/Home.jpg"></p>
 
 ### Slidebar
-<p align="center"><img src="https://github.com/AmanGuptaCoder/Tech-Fest-Management-App/blob/main/Screenshots/Slidebar.jpg"></p>
+<p align="center"><img width="300" height="550" src="https://github.com/AmanGuptaCoder/Tech-Fest-Management-App/blob/main/Screenshots/Slidebar.jpg"></p>
 
-### Certificates
-<p align="center"><img src="https://github.com/AmanGuptaCoder/Tech-Fest-Management-App/blob/main/Screenshots/Certificate_page.jpg" alt = "like memory"></p>
+### Certificates Pages
+<p align="center"<img width="300" height="550" src="https://github.com/AmanGuptaCoder/Tech-Fest-Management-App/blob/main/Screenshots/Certificate_page.jpg" alt = "Certificate_Pages"></p>
 
-### Splash Screen
-<p align="center"><img src="https://github.com/AmanGuptaCoder/Tech-Fest-Management-App/blob/main/Screenshots/Splash_Screen.jpg" alt = "delete memory"></p>
+### User Login
+<p align="center"><img width="300" height="550" src="https://github.com/AmanGuptaCoder/Tech-Fest-Management-App/blob/main/Screenshots/User_Login.jpg" alt = "User Login"></p>
 
-## 📢  Open Source Program
-
+### Admin Dashboard
+<p align="center"><img width="300" height="550" src="https://github.com/AmanGuptaCoder/Tech-Fest-Management-App/blob/main/Screenshots/Admin_Dashboard.jpg" alt = "User Login"></p>" alt = "User Login"></p>
