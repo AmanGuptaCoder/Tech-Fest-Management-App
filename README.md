@@ -1,4 +1,4 @@
-![Tech-Fest-App](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcet96oDX6zJPhwhqbx6vZoZw3UOtFBEYptYNlLMZiGB5xjpXSckiBkQsTtClOCLMd9X8LAxwoL4j3WXrsnRRHSaztA1W7dSgg5OmU81kYuyqxC1-3C84_nK-DBuRwBiDE2QS_CrIrohX8W1w75k7kKFoSD7Iaf-Q1whXKDFQlN3nMG9azuJhlw_a4PQ/w114-h114/152648731-567997ec-ac1c-4a9c-a816-a1fb1882abbe.png)
+[Tech-Fest-App](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhcet96oDX6zJPhwhqbx6vZoZw3UOtFBEYptYNlLMZiGB5xjpXSckiBkQsTtClOCLMd9X8LAxwoL4j3WXrsnRRHSaztA1W7dSgg5OmU81kYuyqxC1-3C84_nK-DBuRwBiDE2QS_CrIrohX8W1w75k7kKFoSD7Iaf-Q1whXKDFQlN3nMG9azuJhlw_a4PQ/w114-h114/152648731-567997ec-ac1c-4a9c-a816-a1fb1882abbe.png)
 
 
 ## 📌 Motive of the Project
