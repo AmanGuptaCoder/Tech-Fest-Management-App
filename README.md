@@ -1,4 +1,4 @@
-![Tech-Fest-App](https://drive.google.com/drive/folders/1f3jCxJK0gvDk6PTpCIca7L9fllxa_959)
+![Tech-Fest-App](https://github.com/AmanGuptaCoder/Tech-Fest-Management-App/blob/main/Screenshots/Splash_Screen.jpg)
 
 
 ## 📌 Motive of the Project
