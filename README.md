@@ -1,4 +1,4 @@
-![Tech-Fest-App](https://github.com/AmanGuptaCoder/Tech-Fest-Management-App/blob/main/Screenshots/Splash_Screen.jpg)
+![Tech-Fest-App]()
 
 
 ## 📌 Motive of the Project
